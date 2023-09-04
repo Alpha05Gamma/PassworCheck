@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassEstim", "PassEstim.csproj", "{39DB44B9-5597-46B2-B609-04245D47FDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassEstim.Tests", "Tests\PassMarker.Tests\PassEstim.Tests.csproj", "{E0AA2CBA-0BBA-444C-9F0D-47363F5942DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39DB44B9-5597-46B2-B609-04245D47FDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DB44B9-5597-46B2-B609-04245D47FDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DB44B9-5597-46B2-B609-04245D47FDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DB44B9-5597-46B2-B609-04245D47FDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AA2CBA-0BBA-444C-9F0D-47363F5942DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AA2CBA-0BBA-444C-9F0D-47363F5942DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AA2CBA-0BBA-444C-9F0D-47363F5942DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AA2CBA-0BBA-444C-9F0D-47363F5942DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9D9404-D9E5-48DC-BF85-BC5EEE8CFB4F}
+	EndGlobalSection
+EndGlobal
